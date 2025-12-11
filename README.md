@@ -14,7 +14,7 @@
 
 ## 👋 Tentang Saya
 
-Halo! Saya **RAFLY*, siswa SMK jurusan **Desain Komunikasi Visual** di SMK 8 Surabaya. 
+Halo! Saya RAFLY, siswa SMK jurusan **Desain Komunikasi Visual** di SMK 8 Surabaya. 
 
 Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Saya percaya bahwa desain yang baik bisa menyampaikan pesan dengan cara yang indah dan efektif!
 
