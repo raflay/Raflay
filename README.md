@@ -125,10 +125,9 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 
 ## 📚 Pengalaman & Pencapaian
 
-- 🎨 **Juara [posisi] Lomba Design** - [Nama Event/Institusi] (2024)
-- 📜 **Sertifikat [Nama Program]** - [Platform/Institusi] (2024)
-- 🏆 **Peserta [Workshop/Event]** - [Nama Event] (2024)
-- ⭐ **Project [Nama Project]** - [Deskripsi singkat] (2023)
+- 📜 **Sertifikat [Internship]** - [Socioworks - Photografer] (2025)
+- 🏆 **Peserta [Workshop/Event]** - AI CLASS (2025)
+- ⭐ **Project [Lembaga Sertifikat Profesi]** - [Membuat desain poster untuk bca] (2025)
 
 
 ---
